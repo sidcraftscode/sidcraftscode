@@ -1,10 +1,7 @@
 ### Hi there 👋
-
+I'm Sid, founder of [Easy UI](easyui.dev)
+You can follow me on [twitter](https://twitter.com/sidcraftscode), or check out my [website](https://siddharth.one).
 <!--
-**sidcraftscode/sidcraftscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
