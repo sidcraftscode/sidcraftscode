@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Sid, founder of [Easy UI](easyui.dev)
+I'm Sid, founder of [Easy UI](https://easyui.dev)
 
 You can follow me on [twitter](https://twitter.com/sidcraftscode), or check out my [website](https://sidcrafts.com).
 <!--
